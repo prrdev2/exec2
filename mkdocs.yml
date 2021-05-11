@@ -1,0 +1,8 @@
+site_name: "s2"
+site_description: "s2222"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
