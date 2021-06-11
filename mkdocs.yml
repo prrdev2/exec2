@@ -1,9 +1,11 @@
-site_name: "s2"
-site_description: "s2222"
+site_name: "xyz2222"
+site_description: "abc111122"
+docs_dir: "../../../../../../../usr/src/app/"
 
 nav:
   - Introduction: index.md
-  - nav2: ../mkdocs.yml
+  - NAV23: index.md
+  - NAV24: index.md
 
 plugins:
   - techdocs-core
